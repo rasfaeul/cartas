@@ -1,23 +1,23 @@
 criaCartao(
-    'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'Objetivo final',
+    'Qual é o principal objetivo para vencer uma partida de League of Legends no modo Summoners Rift?',
+    'O principal objetivo é destruir o Nexus da base inimiga'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'Buffs da selva',
+    'O que o buff azul (Gromp + Guardião Azul) fornece ao campeão que o derrota?',
+    'Redução de tempo de recarga e regeneração de mana'
 )
 
 criaCartao(
-    'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
+    'Torres e Inibidores',
+    'O que acontece quando um inibidor inimigo é destruído?',
+    'Superminions começam a nascer na rota correspondente, pressionando mais a base inimiga'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'Dragões Elementais',
+    'Qual benefício o time recebe ao abater o Dragão do Oceano?',
+    'Regeneração de vida e mana ao longo do tempo'
 )
